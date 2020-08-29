@@ -1,0 +1,132 @@
+﻿Thanks for playing cyber adventure!
+
+
+You are in cyber world, your goal is to free an AI f by going into cyberspace and using the correct code.
+
+
+There are 2 ways to complete the game: a stealthy approach where you don’t have to harm anybody and a gun blazing approach where you have to kill certain NPCs. The choice is yours.
+
+
+At any stage of the game except the boss encounter and the final location, you can type ‘hint’ in order to get a step by step guide on how to complete the current area.
+
+
+
+
+Walkthrough:
+
+
+1.You start in the sewer. You see an item called hck_chip. Use ‘get hck_chip’ to pick it up
+
+
+2. ‘use hck_chip’ to unlock the door leading north
+
+
+3.’go north’
+
+
+4. There is a crawls space leading to the storage room, but a crate blocks it. ‘move crate’ to unlock the crawlspace
+
+
+5.’crawl’ to crawl into storage room in the east
+
+
+6. There is a gun here. ‘get gun’
+
+
+7. ‘go west’
+
+
+At this point you can choose to follow the stealth path or the guns blazing path.
+
+
+        Stealth path:
+
+
+        8. Talk to merchant to learn what he wants ‘talk_to merchant’
+
+
+        9. ‘sell gun’
+
+
+        10. ‘go west’
+
+
+        11. You see an item here that can unlock passage north. ‘get protector’
+
+
+        12. ‘Examine the protector to learn how to unlock passage. ‘examine protector’
+
+
+        13. Follow the instructions. Go to YouTube on any device, search ‘blade baseline’ and open the first video (https://www.youtube.com/watch?v=vrP-_T-h9YM) You’re looking for the phrase ‘cells within cells INTERLINKED’. That’s the keyword. 
+
+
+        14. ‘use protector’
+
+
+        15. Type in ‘interlinked’ in the console (if you’re using GUI, the console will show up in Eclipse. NOTE: the player will die and you will have to start over if you get this wrong! If you’re using GUI, you can go back to the GUI window.
+
+
+        16. ‘go north’
+
+
+        
+        Guns blazing path:
+
+
+        8. Talk to thug to learn if he can let you through the north door: ‘talk_to thug’
+
+
+        9. ‘shoot thug’
+
+
+        10. The thug drops a note. ‘get note’
+
+
+        11. ‘examine note’
+
+
+        12. ‘go north’
+
+
+        13. There’s a gang boss here and he’s about to shoot you! The only thing you can do is ‘duck’
+
+
+        14. Now you can ’shoot boss’
+
+
+        15. ‘go north’
+
+
+17. ‘get the_chip’
+
+
+18. ‘examine the_chip’
+
+
+19. ‘read_chip’
+
+
+20. You now see an array of characters. Look for the code to free the AI in the middle of the array. The code is 42
+
+
+21. ‘use the_chip’
+
+
+22. ‘go into_cyberspace’
+
+
+23 ’42’
+
+
+You win!
+
+
+
+
+Known issues:
+
+
+- Location descriptions don’t update after events have taken. Did not have sufficient time to implement this
+
+
+- in the puzzle room/catacomb, the prompt command can’t be used in the GUI. The player has to switch to Eclipse to type in the command
